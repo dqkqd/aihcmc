@@ -1,0 +1,8 @@
+omegaconf>=2.0
+torch>=1.4.0
+timm>=0.1.28
+torchvision
+pycocotools
+pyyaml
+lap
+cython_bbox
